@@ -91,7 +91,7 @@ nav a {
 #try-your-luck {
 	font-family: 'Monoton', cursive;
 	font-size: 32px;
-	background-color: var(--luckBgColor);
+	/* background-color: var(--luckBgColor); */
 	color: var(--luckTextColor);
 	margin: 0px 5px 40px 5px;
 	padding: 5px 0px 5px 0px;
@@ -230,7 +230,7 @@ padding: 1Øpx;
 	}
 
 .ul { 
-	text-decoration: underline; 
+	/* text-decoration: underline;  */
 	font-family: Comic Sans MS, cursive;
 	font-weight: bold;
 	font-size: 150%;
